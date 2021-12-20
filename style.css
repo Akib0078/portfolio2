@@ -1,0 +1,58 @@
+body{
+    height: 100%;
+    font-size: 1.1rem;
+}
+
+.img1{
+    width: 60px;
+    height: 50px;
+}
+#navs{
+    color: #dc3545;
+    font-weight: 500;
+    font-size: 1rem;
+}
+#navs:hover{
+    transform: scale(1.2);
+}
+.page-header{
+    margin-top: 7rem;
+}
+#h41{
+    color: #dc3545;
+}
+#me{
+    width: 350px;
+    height: 350px;
+}
+.edu{
+    font-size: 1.1rem;
+}
+.edu2{
+    font-size: 1rem;
+}
+img{
+    max-width:100%;
+}
+.gallery{
+    padding: 80px 0;
+}
+.gallery img{
+    background-color: white;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+.foot{
+    background-color: #dc3545;
+}
+.copy{
+    font-size:0.9rem;
+}
+.social{
+    font-size: larger;
+}
+.social:hover{
+    transform: scale(1.3);
+}
